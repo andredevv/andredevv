@@ -13,9 +13,7 @@ Explorar novas tecnologias e ferramentas
 Se você deseja entrar em contato comigo, sinta-se à vontade para enviar uma mensagem aqui mesmo pelo GitHub ou me encontrar no LinkedIn
 
 LinkedIn: https://www.linkedin.com/in/andre-santos-564461257/
-Estou sempre em busca de aprender coisas novas e colaborar em projetos interessantes. Vamos nos conectar e construir algo incrível juntos!
 
 
-As tecnologias que conheço são:
-
+# Tecnologias
 HTML5 | CSS3 | JavaScript | React | Node | SQL | TypeScript
