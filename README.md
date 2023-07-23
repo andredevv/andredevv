@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá, eu sou o André Luiz! 👋
+Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade.
 
-<!--
-**andredevv/andredevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mim
+Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver problemas e criar soluções inovadoras. Minha jornada no mundo da programação começou há alguns anos, e desde então venho explorando diversas áreas, como desenvolvimento web, mobile e inteligência artificial.
 
-Here are some ideas to get you started:
+# Interesses
+Desenvolvimento web e mobile
+Inteligência Artificial e Aprendizado de Máquina
+Explorar novas tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contato
+Se você deseja entrar em contato comigo, sinta-se à vontade para enviar uma mensagem aqui mesmo pelo GitHub ou me encontrar no LinkedIn
+
+LinkedIn: https://www.linkedin.com/in/andre-santos-564461257/
+Estou sempre em busca de aprender coisas novas e colaborar em projetos interessantes. Vamos nos conectar e construir algo incrível juntos!
+
+
+As tecnologias que conheço são:
+
+HTML5
+CSS3
+JavaScript
+React
+Node
+SQL
+TypeScript
