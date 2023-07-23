@@ -18,10 +18,4 @@ Estou sempre em busca de aprender coisas novas e colaborar em projetos interessa
 
 As tecnologias que conheço são:
 
-HTML5
-CSS3
-JavaScript
-React
-Node
-SQL
-TypeScript
+HTML5 | CSS3 | JavaScript | React | Node | SQL | TypeScript
